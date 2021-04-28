@@ -1,0 +1,1 @@
+const aiueo = 1;
